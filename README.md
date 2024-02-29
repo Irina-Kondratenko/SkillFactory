@@ -6,6 +6,6 @@
 
 Здесь на GitHub я сохраняю свои конспекты и  домашние задания.
 
-## Мои конспекты (https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Getting-started.md)
+## [Мои конспекты](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Getting-started.md)
 
-## Домашние задания (https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Homework.md)
+## [Домашние задания](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Homework.md)
