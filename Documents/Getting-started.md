@@ -1,6 +1,6 @@
 # С О Д Е Р Ж А Н И Е:
 
-+ Блок 1. Знакомство с данными. Python для анализа данных:
++ **Блок 1. Знакомство с данными. Python для анализа данных:**
 
     I. [PYTHON-8. Инструменты для Data Science]()
 
@@ -21,3 +21,7 @@
     IX. [BONUS. Markdown и GIT для создания портфолио](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Data%20Science/%D0%91%D0%BB%D0%BE%D0%BA%201.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.%20Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/BONUS.%20Markdown%20%D0%B8%20GIT%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE/Markdown%20and%20Git.ipynb)
 
     X. [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_3/Project-3%20Notebook.ipynb)
+
++ **Блок 2. Подгрузка данных:**
+
+    I. [PYTHON-16. Как выгружать данные из файлов разных форматов]()
