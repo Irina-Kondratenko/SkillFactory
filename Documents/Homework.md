@@ -1,4 +1,4 @@
-# Мои работы:
+# ***Мои работы:***
 В онлайн-школе SkillFactory на курсе - Data Science.
 
 ## Project:

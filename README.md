@@ -1,4 +1,5 @@
-# SkillFactory: курс - Data Science
+# ***SkillFactory: курс - Data Science***
+
 
 
 ## [Мои конспекты](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Documents/Getting-started.md)
