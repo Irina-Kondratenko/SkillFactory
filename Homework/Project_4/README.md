@@ -43,6 +43,6 @@
 
 ## Результат:
 
-Результаты и выводы о проделанной работе представлены в [Jupyter Notebook](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_4/Project_4%20Notebook.ipynb)
+Результаты и выводы о проделанной работе представлены в [Jupyter Notebook]()
 
 [Вернуться к оглавлению](#Оглавление)
