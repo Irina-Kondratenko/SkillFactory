@@ -8,3 +8,4 @@
 - Проект 4. [Анализ вакансий из HeadHunter](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_4/README.md)
 - Проект 5. [Практика. Статистические тесты в контексте EDA](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_5/README.md)
 - Проект 6. [EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_6/README.md)
+- Проект 7. [Практика: логистическая регрессия](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_7/README.md)
