@@ -50,6 +50,6 @@
 
 ## Результат:
 
-Результаты и выводы о проделанной работе представлены в [Jupyter Notebook]()
+Результаты и выводы о проделанной работе представлены в [Jupyter Notebook](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_8/Project_8_ML.ipynb)
 
 [Вернуться к оглавлению](#Оглавление)
