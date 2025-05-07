@@ -85,3 +85,7 @@
     IX. [PROJECT-4. Задача классификации](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_8/README.md)
 
     X. Аттестация 4. Задачи и алгоритмы ML
+
+    + **Блок 5. Математика в ML. Часть I**
+
+    I. [MATH&ML-1. Линейная алгебра в контексте линейных методов. Часть I]()
