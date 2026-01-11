@@ -10,3 +10,4 @@
 - Проект 6. [EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_6/README.md)
 - Проект 7. [Практика: логистическая регрессия](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_7/README.md)
 - Проект 8. [Практика: Задача классификации](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_8/README.md)
+- Проект 8. [Практика: линейная регрессия по методу наименьших квадратов](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_9/README.md)
