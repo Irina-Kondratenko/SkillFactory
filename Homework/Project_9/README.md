@@ -39,6 +39,6 @@
 
 ## Результат:
 
-Результаты и выводы о проделанной работе представлены в [Jupyter Notebook]()
+Результаты и выводы о проделанной работе представлены в [Jupyter Notebook](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_9/MATH_ML-2_%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.ipynb)
 
 [Вернуться к оглавлению](#Оглавление)
