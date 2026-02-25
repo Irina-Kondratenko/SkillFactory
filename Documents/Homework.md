@@ -11,4 +11,4 @@
 - Проект 7. [Практика: логистическая регрессия](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_7/README.md)
 - Проект 8. [Практика: Задача классификации](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_8/README.md)
 - Проект 9. [Практика: линейная регрессия по методу наименьших квадратов](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_9/README.md)
-- Проект 10. [PROJECT-10. Задача регрессии](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_10/README.md)
+- Проект 10. [PROJECT-10. Задача регрессии](https://github.com/Irina-Kondratenko/SkillFactory/blob/main/Homework/Project_10/README10.md)
