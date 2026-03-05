@@ -162,3 +162,5 @@ cython_debug/
 database.csv
 hotels.csv
 train.csv
+osrm_data_train.csv
+weather_data.csv
